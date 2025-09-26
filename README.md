@@ -69,9 +69,11 @@ The application replaces fragmented spreadsheets and manual processes with a **s
 ### Phase 10: Final Delivery & Demo  
 - Full demo flow:  
   1. Customer registers → logs in → submits feedback.  
-  2. Python script analyzes feedback → updates Salesforce.  
-  3. Negative feedback → auto case creation for agent.  
-  4. Dashboard updates in real-time.  
+  2. Python script analyzes feedback → updates Salesforce.
+  3. Positive feedback → collects testimonial
+  4. Neutral feedback  → collects survey
+  5. Negative feedback → auto case creation for agent.  
+  6. Dashboard updates in real-time.  
 - Demonstrated **business impact**: faster resolutions, AI-driven insights, improved customer satisfaction.  
 
 ---
@@ -91,4 +93,10 @@ The application replaces fragmented spreadsheets and manual processes with a **s
 - **AI Extensions:** Einstein Bots
 
 ---
+
+---
+
+##  Demo  
+
+> **[Click here to watch the CXIntel Demo Video](https://your-demo-link.com)**  
 
