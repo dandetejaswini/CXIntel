@@ -4,9 +4,9 @@ from textblob import TextBlob
 
 # Connect to Salesforce
 sf = Salesforce(
-    username='projectspace@2k26.com',
-    password='projectspace@26',
-    security_token='Khu4OihBnFqA92mFJ9DCzVrLg',
+    username='your username',
+    password='your password',
+    security_token='your security token',
     domain='login'  # or 'test' if sandbox
 )
 
@@ -68,3 +68,4 @@ for rec in records:
 
 
 print("🎉 All feedback records processed.")
+
