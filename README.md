@@ -19,7 +19,7 @@ The application replaces fragmented spreadsheets and manual processes with a **s
 | **Integration**            | Salesforce REST API, Python (`simple-salesforce`), Hugging Face/TextBlob |
 | **Deployment**             | GitHub Actions CI/CD, Salesforce DX, VS Code |
 | **Analytics**              | Custom Reports & Dashboards (Sentiment Trends, Feedback Volume, Agent Performance) |
-| **AI Extensions**          | Einstein Bots (auto-replies), Google Speech-to-Text API |
+| **AI Extensions**          | Einstein Bots (auto-replies) |
 
 ---
 
@@ -88,10 +88,7 @@ The application replaces fragmented spreadsheets and manual processes with a **s
 - **Salesforce** (Experience Cloud, Apex, LWC, Flows, Reports & Dashboards)  
 - **Python** (TextBlob, Hugging Face Transformers, simple-salesforce)  
 - **Deployment Tools:** GitHub Actions, VS Code, Salesforce DX  
-- **AI Extensions:** Einstein Bots, Google Speech-to-Text API  
+- **AI Extensions:** Einstein Bots
 
 ---
 
-## 📌 Author  
-👤 **Tejaswini Dande**  
-Intern @ LG India Pvt Ltd | Salesforce & Python Developer | AI-ML Enthusiast  
