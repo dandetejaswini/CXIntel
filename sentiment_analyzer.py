@@ -67,5 +67,6 @@ for rec in records:
     print(f"Updated record {feedback_id} → {sentiment} ({score})")
 
 
-print("🎉 All feedback records processed.")
+print("All feedback records processed.")
+
 
