@@ -37,7 +37,8 @@ The application replaces fragmented spreadsheets and manual processes with a **s
 
 ### Phase 4: Process Automation  
 - Validation Rule → Feedback text must be provided.  
-- Record-Triggered Flow → Create Case automatically if sentiment is **Negative**.  
+- Record-Triggered Flow → Create Case automatically if sentiment is **Negative**.
+- Email through Flows → Sends E-mail to the user who have submitted the feedback
 
 ### Phase 5: Python AI Integration  
 - Developed Python script with **TextBlob/Hugging Face** for sentiment analysis.  
