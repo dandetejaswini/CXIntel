@@ -94,13 +94,7 @@ The application replaces fragmented spreadsheets and manual processes with a **s
 
 ---
 
-##  Demo  
-
-> **[Click here to watch the CXIntel Demo Video](https://your-demo-link.com)**
-
----
-
-## 🎥 Video Demo  
+## Video Demo  
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://your-demo-link.com)
 
