@@ -1,4 +1,4 @@
-# CXIntel – Customer Experience Intelligence Platform  
+# CXIntel – Customer Experience Intelligence Platform  (SCROLL DOWN TO WATCH DEMO VIDEO)
 
 ## Project Summary  
 CXIntel is a Salesforce-based **Customer Experience Intelligence Platform** that centralizes customer feedback, applies **AI-powered sentiment analysis**, and provides **real-time insights** to agents, managers, and executives.  
